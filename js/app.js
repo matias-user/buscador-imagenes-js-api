@@ -40,9 +40,6 @@ function recorrerArray( arrays ){
                     </div>
             </div>
         `;   
-        // const imagenes = document.createElement('img');
-        // imagenes.classList.add('mt-3')
-        // imagenes.src = largeImageURL;
 
         contenedorImg.appendChild( divContenedor);
         
